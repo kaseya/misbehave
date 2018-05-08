@@ -8,12 +8,9 @@
   ],
   "license": "MIT",
   "description": "Turn Polymer v1 components into behaviors",
-  "authors": [
-    "Devin Ivy <devin@bigroomstudios.com>"
-  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/devinivy/misbehave.git"
+    "url": "git://github.com/kaseya/misbehave.git"
   },
   "main": "misbehave.html",
   "dependencies": {
